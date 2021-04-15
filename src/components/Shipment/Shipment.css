@@ -1,0 +1,49 @@
+body{
+    /* background-color:rgb(202, 181, 181); */
+}
+.shipment-main-div{
+    /* text-align: center; */
+    margin-top:50px;
+    margin-left: 100px;
+    /* width:00%;
+    margin: auto; */
+    /* justify-content: center;
+    justify-items: center; */
+    /* width: 800px;
+    margin: auto; */
+    
+    
+}
+
+.shipment-form input{
+    display:block;
+    text-align: center;
+    padding:15px;
+    margin-top: 40px;
+    border: 1px solid cyan;
+    border-radius:5px;
+    width: 300px;
+    
+
+}
+.shipment-form span{
+    color: red;
+}
+.option-field{
+    margin-top:30px;
+    width:330px;
+    text-align: center;
+}
+#submit-btn{
+    width: 330px;
+    background-image: linear-gradient(45deg,cyan,lightgray,magenta);
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+}
+#submit-btn:hover{
+    background-color: blue;
+    cursor: pointer;
+}

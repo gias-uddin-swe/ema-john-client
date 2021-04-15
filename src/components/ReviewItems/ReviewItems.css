@@ -1,0 +1,28 @@
+.review-items-main {
+  margin: 50px;
+  padding: 50px;
+  width: 60%;
+  border: 1px solid lightgray;
+}
+.review-items-main h3 {
+  color: blue;
+}
+.review-items-main p {
+  font-size: 18px;
+  font-weight: bold;
+  color: blueviolet;
+}
+.remove-button {
+  padding: 12px 44px;
+  border-radius: 5px;
+  background-color: lightskyblue;
+  outline: none;
+  border: none;
+  font-size: 16px;
+  font-weight: 400;
+  transition: 0.8s;
+}
+.remove-button:hover {
+  background-color: blue;
+  color: white;
+}

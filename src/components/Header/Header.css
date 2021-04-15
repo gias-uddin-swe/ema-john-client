@@ -1,0 +1,32 @@
+.Header img {
+  height: 80px;
+}
+.Header {
+  text-align: center;
+}
+nav {
+  background-color: black;
+  line-height: 40px;
+}
+nav a {
+  font-size: 22px;
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+  padding: 5px;
+}
+nav a:hover {
+  background-color: gray;
+}
+.sign-out-btn{
+  padding: 10px 20px;
+  background-color: red;
+  color: white;
+  border-radius:5px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.sign-out-btn:hover{
+/* padding: 12px 25px; */
+background-color: blue;
+}

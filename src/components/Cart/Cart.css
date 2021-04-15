@@ -1,0 +1,13 @@
+.cart-main-div {
+  width: 310px;
+  height: 400px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 20px gray;
+  padding: 20px;
+  padding-left: 30px;
+  margin-left: 50px;
+}
+.cart-main-div p {
+  font-size: 18px;
+  font-weight: 400;
+}

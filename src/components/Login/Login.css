@@ -1,0 +1,101 @@
+body{
+    
+  }
+  .App {
+    text-align: center;
+    background-image: url('../../image/bannerbackground.png');
+    /* background-position:center; */
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+  }
+  
+  .input-field{
+    font-size: 16px;
+    font-weight: 400;
+    width: 30%;
+    height: 15px;
+    padding: 20px;
+    margin: 10px;
+    border: none;
+    background-color: #f0e3e3;
+  }
+  .logo img{
+    width: 30%;
+    margin-bottom: 40px;
+    margin-top:10px;
+  }
+  .submit-btn{
+    background-color: #F91944;
+    color: white;
+    font-size: 16px;
+    font-weight: 4;
+    border: none;
+    width: 34%;
+    height: 50px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    /* padding: 20px; */
+  }
+  .submit-btn:hover{
+    background-color: #ec3c5f;
+    color: rgb(250, 251, 255);
+    
+  }
+  .label{
+    color:red;
+    font-size:18px;
+  }
+  .label:hover{
+    color: blue;
+  }
+
+  .google-btn{
+    margin-top: 25px;
+    width: 250px;
+    height:30px;
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+    line-height: 10px;
+    border: none;
+    color: #405506;
+    border-radius: 10px;
+    /* padding:10px; */
+  }
+  .google-btn:hover{
+    background-color:rgb(39, 39, 218);
+    color: white;
+  }
+  .facebook-btn{
+    margin-top: 15px;
+    width: 250px;
+    height:30px;
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+    line-height: 10px;
+    border: none;
+    color: #0d27b6;
+    border-radius: 10px;
+    /* padding:10px; */
+  }
+  .facebook-btn:hover{
+    background-color:rgb(39, 39, 218);
+    color: white;
+  }
+  .github-btn{
+    margin-top: 15px;
+    width: 250px;
+    height:30px;
+    background-color: rgb(32, 29, 29);
+    font-size: 16px;
+    line-height: 10px;
+    border: none;
+    color: #fcfcfc;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    /* padding:10px; */
+  }
+  .github-btn:hover{
+    background-color:rgb(39, 39, 218);
+    color: white;
+  }

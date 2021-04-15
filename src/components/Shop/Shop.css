@@ -1,0 +1,23 @@
+.shop-container {
+  display: flex;
+}
+.product-container {
+  width: 70%;
+  margin-right: 5px;
+  margin-left: 20px;
+  border-right: 1px solid lightgray;
+}
+.loading-spinner img {
+  width: 100%;
+  margin: auto;
+}
+.search-input {
+  width: 350px;
+  height: 45px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.search-div {
+  width: 100%;
+  margin: auto;
+}
